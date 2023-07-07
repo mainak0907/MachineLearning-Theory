@@ -38,4 +38,4 @@ To get started with using or contributing to this repository, follow these steps
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/machine-learning-algorithms.git
+git clone https://github.com/mainak0907/MachineLearning-Theory.git
